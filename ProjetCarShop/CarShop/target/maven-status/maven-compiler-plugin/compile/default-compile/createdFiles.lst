@@ -1,0 +1,16 @@
+be\helb\security\AuthorizationFilter.class
+be\helb\security\ConfigPassword.class
+be\helb\controller\UserController.class
+be\helb\DAO\CarDao.class
+be\helb\model\User.class
+be\helb\security\AuthenticationFilter.class
+be\helb\service\UserDetailServiceImpl.class
+be\helb\config\JpaConfiguration.class
+be\helb\controller\controller.class
+be\helb\model\MyUser.class
+be\helb\security\WebSecurityConfiguration.class
+be\helb\model\Car.class
+be\helb\DAO\UserDao.class
+be\helb\service\SwaggerConfigService.class
+be\helb\CarShopApplication.class
+be\helb\service\CarShopService.class
